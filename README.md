@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ola Amigos, this is a much awaited learning project by me, where I made a Blogging website from scratch using the Ruby on rails platform
 
-Things you may want to cover:
+to run this, download Ruby on rails from- railsinstaller.org
 
-* Ruby version
+complete the setup and run rails server using 
+rails s
+on git bash in windows
 
-* System dependencies
+place the project in your Sites folder.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All credits to Ankush Sharma!
+I welcome all contributions and suggestions and tutorials on this!
